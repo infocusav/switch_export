@@ -1,7 +1,7 @@
 # switch_export
 proxmox container for export netgear switch configs
 
-Download and tun this command
+run the following command within the >_ Shell Follow the promts for container number, name, password and network config
 
 <pre>
 <code>
