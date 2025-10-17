@@ -3,6 +3,9 @@ proxmox container for export netgear switch configs
 
 Download and tun this command
 
-bash <(curl -s https://raw.githubusercontent.com/yourname/proxmox-html-python/main/install.sh)
+<pre>
+<code>
+bash <(curl -s https://raw.githubusercontent.com/yourname/proxmox-html-python/main/install.sh)</code>
+</pre>
 
 It will host the script exporter on you containers IP address :5000.
